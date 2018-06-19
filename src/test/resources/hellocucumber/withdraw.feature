@@ -31,5 +31,5 @@ Feature: Withdraw money
   # And we want to capture the business, the domain logic
   # So we don't say "I input the number 50 in my text input, then I click my big red OK button"
 
-  # In conclusion: These are "ingration tests" that test how modules work together, but don't test everything thoroughly
+  # In conclusion: These are "integration tests" that test how modules work together, but don't test everything thoroughly
 
